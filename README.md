@@ -14,21 +14,22 @@ behind open science. I also work where **code meets art**.
 
 ####  Open Source & Open Science
 
-**[DAMAP](https://github.com/damap-org)** — core contributor; machine-actionable data management planning tool.<br>
-**[SharedRDM](https://github.com/sharedRDM)** — multi-institution Austrian RDM infrastructure. Led the shared institutional template and multi-instance deployments.<br>
-**[InvenioRDM · CERN](https://github.com/inveniosoftware)** — member of the InvenioSoftware org.<br>
-**[Fair Data Austria](https://github.com/fair-data-austria)** · **OSTrails (EU)** — machine-actionable DMP tooling and FAIR assessment; co-author of deliverable D1.1.<br>
-**Bio+Med+Vis Summer School** (2025, *TU Delft*) — scholarship recipient; biomedical data visualization.
+**[DAMAP](https://github.com/damap-org)**  core contributor; machine-actionable data management planning tool.<br>
+**[SharedRDM](https://github.com/sharedRDM)** multi-institution Austrian RDM infrastructure. Led the shared institutional template and multi-instance deployments.<br>
+**[InvenioRDM · CERN](https://github.com/inveniosoftware)** member of the InvenioSoftware org.<br>
+**[Fair Data Austria](https://github.com/fair-data-austria)** · **OSTrails (EU)** machine-actionable DMP tooling and FAIR assessment; co-author of deliverable D1.1.<br>
+**Bio+Med+Vis Summer School** (2025, *TU Delft*) scholarship recipient; biomedical data visualization.
 
 ####  Creative Technology
 
-**Navigating Estrangement** (2026) — two autonomous, synchronised robotic tables with choreographed motion, built with ROS2. *Manor Art Prize, Kunsthaus Biel.*<br>
-**Ars Electronica Festival** (2021 & 2022) — wearable interfaces of movement, sound, and light.
+**Navigating Estrangement** (2026) two autonomous, synchronised robotic tables with choreographed motion, built with ROS2. *Manor Art Prize, Kunsthaus Biel.*<br>
+**Ars Electronica Festival** (2021 & 2022) wearable interfaces of movement, sound, and light.
 
 ####  Experience
 
-**Graz University of Technology · ISEC** — Frontend Developer (part-time) on a ministry-funded React platform for online teaching. TypeScript & React.<br>
-**ProTechnology** *(Dresden)* — software development with TypeScript, React, progressive web apps, and cloud technologies.<br>
+**Graz University of Technology** Full-Stack Software Engineer, Research Data Management (2022–present); building and operating research data infrastructure across Austrian universities.<br>
+**Graz University of Technology · ISEC** Frontend Developer (part-time) on a ministry-funded React platform for online teaching. TypeScript & React.<br>
+**ProTechnology** *(Dresden)* software development with TypeScript, React, progressive web apps, and cloud technologies.<br>
 **AVL** — full-stack web development internship; introduction to enterprise-scale engineering and agile workflows.
 
 ---
