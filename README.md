@@ -22,7 +22,7 @@ behind open science. I also work where **code meets art**.
 
 ####  Creative Technology
 
-**Navigating Estrangement** (2026) two autonomous, synchronised robotic tables with choreographed motion, built with ROS2. *Manor Art Prize, Kunsthaus Biel.*<br>
+**Navigating Estrangement** (2026) two autonomous, synchronised robotic tables with choreographed motion, built with ROS2. Contributed software development and robotics programming. Manor Art Prize, Kunsthaus Biel.  <br>
 **Ars Electronica Festival** (2021 & 2022) wearable interfaces of movement, sound, and light.<br>
 **H.E.I.K.E** (2018) a drawing machine that converts facial expressions into line art via microcontroller. *Creator ≠ Created, Smallest Gallery, Graz.*
 
