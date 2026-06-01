@@ -27,10 +27,10 @@ behind open science. I also work where **code meets art**.
 
 ####  Experience
 
-**Graz University of Technology** Full-Stack Software Engineer, Research Data Management (2022–present); building and operating research data infrastructure across Austrian universities.<br>
+**Graz University of Technology** Full-Stack Software Engineer, Research Data Management; building and operating research data infrastructure across Austrian universities.<br>
 **Graz University of Technology · ISEC** Frontend Developer (part-time) on a ministry-funded React platform for online teaching. TypeScript & React.<br>
 **ProTechnology** *(Dresden)* software development with TypeScript, React, progressive web apps, and cloud technologies.<br>
-**AVL** — full-stack web development internship; introduction to enterprise-scale engineering and agile workflows.
+**AVL** full-stack web development internship; introduction to enterprise-scale engineering and agile workflows.
 
 ---
 
