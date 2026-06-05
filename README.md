@@ -14,10 +14,12 @@ behind open science. I also work where **code meets art**.
 
 ####  Open Source & Open Science
 
+**[TU Graz Library](https://github.com/tu-graz-library)** part of the Research Data Management team.<br>
+**[SharedRDM](https://github.com/sharedRDM)** multi-institution Austrian RDM infrastructure. <br>
 **[DAMAP](https://github.com/damap-org)**  core contributor; machine-actionable data management planning tool.<br>
-**[SharedRDM](https://github.com/sharedRDM)** multi-institution Austrian RDM infrastructure. Led the shared institutional template and multi-instance deployments.<br>
 **[InvenioRDM · CERN](https://github.com/inveniosoftware)** member of the InvenioSoftware org.<br>
 **[Fair Data Austria](https://github.com/fair-data-austria)** · **OSTrails (EU)** machine-actionable DMP tooling and FAIR assessment; co-author of deliverable D1.1.<br>
+**[CyVerse Austria](https://github.com/cyverse-austria)** contributor; data science infrastructure.<br>
 **Bio+Med+Vis Summer School** (2025, *TU Delft*) scholarship recipient; biomedical data visualization.
 
 ####  Creative Technology
